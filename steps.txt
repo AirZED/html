@@ -5,3 +5,10 @@ git add me.jpg : Add me.jpg to git
 OR you can use 
 
 git add . : Add all files at the same time to git
+
+git commit -m 'commit message' : This adds a commit message for the snapshot of the added
+
+git remote add origin https://github.com/AirZED/html.git : This adds a remote origin that connects your local repository to github (remote repository)
+
+git push origin master
+
