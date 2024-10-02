@@ -1,0 +1,17 @@
+.one {
+  color: purple;
+  font-size: 4rem;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#ftld {
+  background-color: yellow;
+}
+
+p {
+  background-color: yellow;
+  border: 2rem solid red;
+  padding: 2rem;
+  margin: 2rem;
+  height: 2rem;
+}

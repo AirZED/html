@@ -1,0 +1,7 @@
+git init : Initializes git in a repository
+
+git add me.jpg : Add me.jpg to git
+
+OR you can use 
+
+git add . : Add all files at the same time to git
